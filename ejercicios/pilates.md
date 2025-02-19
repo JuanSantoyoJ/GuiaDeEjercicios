@@ -14,4 +14,7 @@ El Pilates se enfoca en la tonificación muscular, el control de la respiración
 3. Mantén la concentración en la respiración y la alineación del cuerpo.
 4. Termina con un enfriamiento y estiramientos suaves.
 
+## Consejos
+- Evita movimientos bruscos, priorizando la precisión y el control.
+- Practica con regularidad para obtener mejores resultados.
 
