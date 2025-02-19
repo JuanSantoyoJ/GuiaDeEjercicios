@@ -1,4 +1,3 @@
-```
 # Ejercicio Cardio
 
 ## Descripcion
@@ -17,5 +16,3 @@ Los ejercicios de cardio son actividades que aumentan tu frecuencia cardiaca y m
 ## Consejos
 - Mantén una hidratación adecuada.
 - Escoge un ritmo que puedas mantener.
- 
-```
