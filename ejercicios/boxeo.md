@@ -14,4 +14,6 @@ El boxeo es un deporte que mejora la fuerza, la velocidad y la coordinación, mi
 3. Alterna con trabajo de saco de boxeo, si tienes acceso a uno.
 4. Termina con estiramientos de brazos y hombros.
 
-
+## Consejos
+- Mantén una postura adecuada para evitar lesiones en muñecas y hombros.
+- Concentra tus golpes en la velocidad y la técnica más que en la fuerza.
