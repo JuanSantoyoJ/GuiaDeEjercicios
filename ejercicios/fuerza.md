@@ -14,3 +14,7 @@ El entrenamiento de fuerza se enfoca en el desarrollo de la musculatura mediante
 2. Realiza series de ejercicios con pesas (sentadillas, press de banca, deadlifts) o ejercicios con peso corporal (flexiones, dominadas).
 3. Realiza 3-4 series de 8-12 repeticiones por ejercicio.
 4. Termina con estiramientos para reducir la tensión muscular.
+
+## Consejos
+- Mantén una postura adecuada para evitar lesiones.
+- Progresivamente aumenta el peso conforme tu fuerza mejore.
