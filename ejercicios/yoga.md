@@ -13,3 +13,8 @@ El yoga es una disciplina que combina posturas físicas, respiración controlada
 2. Realiza una serie de posturas (perro mirando hacia abajo, cobra, árbol).
 3. Mantén cada postura entre 20-60 segundos.
 4. Termina con una relajación profunda (Shavasana).
+
+## Consejos
+- Respira profundamente durante las posturas.
+- Practica de manera constante para mejorar gradualmente tu flexibilidad.
+
