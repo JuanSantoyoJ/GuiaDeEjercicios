@@ -14,4 +14,6 @@ El entrenamiento funcional se enfoca en movimientos que imitan las actividades c
 3. Mantén el ritmo elevado para mejorar tu resistencia.
 4. Termina con estiramientos para relajar los músculos.
 
-
+## Consejos
+- Mantén una postura correcta durante los ejercicios para evitar sobrecargar las articulaciones.
+- Realiza movimientos controlados y evita el uso de peso excesivo al principio.
