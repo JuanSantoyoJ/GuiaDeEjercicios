@@ -13,6 +13,6 @@ Bienvenido a nuestra guía de ejercicios físicos, donde compartimos descripcion
 - [Ejercicio de Ciclismo](https://github.com/JuanSantoyoJ/GuiaDeEjercicios/tree/ciclismo/ejercicios/ciclismo.md): Gran ejercicio cardiovascular de bajo impacto.
 - [Ejercicio de Natación](https://github.com/JuanSantoyoJ/GuiaDeEjercicios/tree/natacion/ejercicios/natacion.md): Trabaja todos los grupos musculares de manera suave.
 - [Ejercicio de Boxeo](https://github.com/JuanSantoyoJ/GuiaDeEjercicios/tree/boxeo/ejercicios/boxeo.md): Mejora la coordinación y la resistencia.
-- [Ejercicio de CrossFit](https://github.com/JuanSantoyoJ/GuiaDeEjercicios/tree/crossfit/ejercicios/crossfit.md): Entrenamiento intensivo y funcional.
+- [Ejercicio de CrossFit](https://github.com/JuanSantoyoJ/GuiaDeEjercicios/ejercicios/crossfit.md): Entrenamiento intensivo y funcional.
 
 ¡Esperamos que encuentres útiles estos ejercicios y te inspires para mantenerte activo y saludable!
