@@ -13,3 +13,7 @@ La flexibilidad es la capacidad de mover las articulaciones en todo su rango de 
 2. Realiza estiramientos estáticos o dinámicos (piernas, espalda, cuello).
 3. Mantén cada estiramiento por 20-30 segundos.
 4. Evita forzar el estiramiento más allá de tu comodidad.
+
+## Consejos
+- Realiza estiramientos después de hacer ejercicio para evitar lesiones.
+- Respira profundamente y mantén la relajación durante los estiramientos.
