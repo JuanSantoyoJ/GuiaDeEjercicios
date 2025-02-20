@@ -4,7 +4,7 @@ Bienvenido a nuestra guía de ejercicios físicos, donde compartimos descripcion
 
 ## Tipos de Ejercicio
 
-- [Ejercicio Cardio](https://github.com/JuanSantoyoJ/GuiaDeEjercicios/tree/ejercicios/cardio.md): Mejora tu resistencia y salud cardiovascular.
+- [Ejercicio Cardio](ejercicios/cardio.md): Mejora tu resistencia y salud cardiovascular.
 - [Ejercicio de Fuerza](https://github.com/JuanSantoyoJ/GuiaDeEjercicios/tree/fuerza/ejercicios/fuerza.md): Aumenta la masa muscular y la fuerza.
 - [Ejercicio de Flexibilidad](https://github.com/JuanSantoyoJ/GuiaDeEjercicios/tree/flexibilidad/ejercicios/flexibilidad.md): Mejora la movilidad y reduce el riesgo de lesiones.
 - [Ejercicio de Entrenamiento Funcional](https://github.com/JuanSantoyoJ/GuiaDeEjercicios/tree/entrenamiento_funcional/ejercicios/entrenamiento_funcional.md): Mejora la fuerza en movimientos cotidianos.
